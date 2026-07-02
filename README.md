@@ -1,5 +1,3 @@
-# Sabrina STITI, Ph.D.
-**Postdoctoral Researcher | Human-Computer & Human-Robot Interaction | Cognitive Ergonomics Specialist**
 
 📍 Toulouse, France | 📧 sabrina.stiti.np@gmail.com / sabrina.stiti@icam.fr  
 🔗 [LinkedIn](https://linkedin.com/in/sabrina-stiti-b20353b4) | 📝 [ResearchGate](https://researchgate.net/profile/Sabrina-Stiti) | 🆔 [ORCID](https://orcid.org/0009-0000-6340-0093)
