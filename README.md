@@ -99,3 +99,4 @@ Interdisciplinary Ph.D. specialized in Human-Robot Interaction (HRI), Human-Comp
 * **Dr. Loïc CAROUX** (Thesis Co-Director) — loic.caroux@univ-tlse2.fr
 * **M. Pierre-Vincent PAUBEL** (CNRS Research Engineer) — pierre.paubel@univ-tlse2.fr
 * **Dr. Charly PECOSTE** (ICAM Supervisor) — charly.pecoste@icam.fr
+
