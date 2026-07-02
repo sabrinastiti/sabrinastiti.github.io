@@ -1,3 +1,8 @@
+<style>
+  header, #header, .inner header, header h1, header h2 {
+    text-align: center !important;
+  }
+</style>
 
 📍 Toulouse, France | 📧 sabrina.stiti.np@gmail.com / sabrina.stiti@icam.fr  
 🔗 [LinkedIn](https://linkedin.com/in/sabrina-stiti-b20353b4) | 📝 [ResearchGate](https://researchgate.net/profile/Sabrina-Stiti) | 🆔 [ORCID](https://orcid.org/0009-0000-6340-0093)
