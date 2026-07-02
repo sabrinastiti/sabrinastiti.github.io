@@ -32,10 +32,8 @@ Interdisciplinary Ph.D. specialized in Human-Robot Interaction (HRI), Human-Comp
   * *Title:* Acceptability of a humanoid robot at home for deaf children with cochlear implants and their family.
   * *Laboratories:* CLLE & CerCo (Toulouse). Supervisors: Prof. Olivier Deguine & Dr. Loïc Caroux.
   * *Funding:* Interdisciplinary doctoral fellowship (ADI for 3 years) from the Occitanie Region, CNRS, and University of Toulouse.
-* **MSc in Cognitive Psychology** – University of Paris 8, France (*2017 – 2018*)
-  * *Graduated with High Honors* | Focus: Human-system interactions, cognitive ergonomics, usability testing, virtual reality training, neuropsychology and mental workload evaluation.
-* **Master 1 in Psychology (Cognition and Neuropsychology)** – University of Besançon, France (*2016 – 2017*)
-  * *Graduated with Honors*
+* **MSc in Cognitive Psychology** – University of Paris 8, France (*2017 – 2018*) — *Graduated with High Honors* Focus: Human-system interactions, cognitive ergonomics, usability testing, virtual reality training, neuropsychology and mental workload evaluation.
+* **Master 1 in Psychology (Cognition and Neuropsychology)** – University of Besançon, France (*2016 – 2017*) — *Graduated with Honors* Focus: Human-system interactions, cognitive ergonomics, usability testing, and experimental validation.
 * **Master 1 in Clinical and Cognitive Neuropsychology** – University of Strasbourg, France (*2014 – 2016*)
 * **Bachelor's Degree in Psychology** – University of Strasbourg, France (*2011 – 2014*)
 
@@ -81,8 +79,13 @@ Interdisciplinary Ph.D. specialized in Human-Robot Interaction (HRI), Human-Comp
 ---
 
 ## 🌍 Languages & Certifications
-* **Languages:** French (Native) | English (Fluent - Academic Publishing & Lecturing Level) | German & Korean (Elementary).
-* **Certifications:** Ethics & Protection of Human Subjects in Scientific Research (University of Toulouse, 2022) | Google Developer Challenge Scholar (Android Basics).
+* **Languages:**
+  * **French:** Native
+  * **English:** Fluent (Academic Publishing & Lecturing Level)
+  * **German & Korean:** Elementary
+* **Certifications:**
+  * Ethics & Protection of Human Subjects in Scientific Research (University of Toulouse, 2022)
+  * Google Developer Challenge Scholar (Android Basics)
 
 ---
 
