@@ -2,6 +2,20 @@
   header, #header, .inner header, header h1, header h2 {
     text-align: center !important;
   }
+  body {
+    background-color: #121212 !important;
+    color: #e0e0e0 !important;
+  }
+  h1, h2, h3, h4, strong {
+    color: #ffffff !important;
+  }
+  a {
+    color: #4fc3f7 !important; /* Un bleu plus clair et lisible sur fond noir */
+  }
+  code, pre {
+    background-color: #1e1e1e !important;
+    color: #ffffff !important;
+  }
 </style>
 
 📍 Toulouse, France | 📧 sabrina.stiti.np@gmail.com / sabrina.stiti@icam.fr  
